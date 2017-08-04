@@ -1,0 +1,12 @@
+PC1033,20,RAM
+PC800,9.99,RAM
+GenericProcessor,110,CPU
+GenericMotherboard,105,MB
+HardDrive1TB,75,DRIVE
+GenericMotherboardV2,100,MB
+LCD,75,PERIPHERAL
+Keyboard,15,MISC
+DeluxeKeyboard,20,MISC
+Mouse,4.99,MISC
+HardDrive500GB,45,DRIVE
+WirelessMouse,19.99,MISC
